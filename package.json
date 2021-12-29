@@ -1,6 +1,6 @@
 {
   "name": "atrasis.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for the Atrasis API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,6 +10,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jelosus2/atrasis.js.git"
+  },
   "keywords": [
     "Atrasis",
     "Wrapper",
@@ -18,6 +22,7 @@
   "engines": {
     "node": ">=14.x"
   },
+  "homepage": "https://github.com/Jelosus2/atrasis.js",
   "author": "Jelosus1",
   "license": "MIT",
   "devDependencies": {
