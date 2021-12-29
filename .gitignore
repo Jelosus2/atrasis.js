@@ -2,4 +2,3 @@ node_modules
 dist/
 test.js
 package-lock.json
-.npmignore
