@@ -4,6 +4,7 @@ Atrasis.js is a library to interact with the Atrasis API made in TypeScript
 # Changelog
 ```
 v1.0.0 -> The package
+v1.0.1 -> Adding repository and homepage
 ```
 
 ## Setup
